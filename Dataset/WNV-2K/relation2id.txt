@@ -1,0 +1,3 @@
+2
+hyperonymy	0
+hyponymy	1
